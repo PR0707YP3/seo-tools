@@ -1,1 +1,5 @@
 streamlit
+pandas
+XlsxWriter
+python-slugify
+beautifulsoup4
